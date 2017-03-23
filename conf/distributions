@@ -1,0 +1,10 @@
+Origin: CyberSecII
+Label: CyberSecII
+Suite: stable
+Codename: xenial
+Architectures: amd64 i386 armhf source 
+Components: main contrib universe
+Description: Repository for kerberos, a system for penetration testing.
+SignWith:79C31997
+DebOverride: override.xenial
+DscOverride: override.xenial
